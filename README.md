@@ -2,7 +2,9 @@
 ## M.S. in Applied Data Science
 
 Name: Lu Guo
+
 SUID: 292001282
+
 Email: lguo15@syr.edu
 
 ## Resume:
