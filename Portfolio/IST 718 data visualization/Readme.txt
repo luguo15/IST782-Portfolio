@@ -1,0 +1,8 @@
+Readme
+
+Requirements: R studio
+
+Files:
+Data: data_cleaned_2021.csv
+Code: IST719-Lu Guo-Final poster.R
+Poster: IST719-Lu Guo-final poster.pdf
